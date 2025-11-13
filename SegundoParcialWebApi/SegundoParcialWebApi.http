@@ -1,0 +1,6 @@
+@SegundoParcialWebApi_HostAddress = http://localhost:5234
+
+GET {{SegundoParcialWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
