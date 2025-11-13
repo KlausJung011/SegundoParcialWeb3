@@ -25,8 +25,6 @@ namespace SegundoParcialWebApi.Models.DTOs
         public string DescripcionCorta { get; set; } = string.Empty;
         public double Precio { get; set; } = double.NaN;
         public int Stock { get; set; } = 0;
-        public int IdCategoria { get; set; }
-        public int IdProveedor { get; set; }
     }
 
     public class DeleteProductoDto

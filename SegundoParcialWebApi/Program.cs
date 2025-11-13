@@ -1,6 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using SegundoParcialWebApi.Data;
+using SegundoParcialWebApi.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<AppDbContext>(
+    options => options.UseInMemoryDatabase("ProductoDB"));
+
 // Add services to the container.
+
+builder.Services.AddScoped<ProductoService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
