@@ -2,14 +2,11 @@
 
 namespace SegundoParcialWebApi.Models.DTOs
 {
-    public class ProveedorDTO
+    public class RegisterProveedorDto
     {
-        public class RegisterProveedorDto
-        {
-            [Required, MaxLength(100)]
-            public string Nombre { get; set; } = string.Empty;
-            [Required, MaxLength(500)]
-            public string Descripcion { get; set; } = string.Empty;
-        }
+        [Required, MaxLength(100)]
+        public string RazonSocial { get; set; } = string.Empty;
+        [Required, MaxLength(100)]
+        public string Contacto { get; set; } = string.Empty;
     }
 }
