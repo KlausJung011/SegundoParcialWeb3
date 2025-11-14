@@ -1486,3 +1486,116 @@ Tiempo de espera agotado para esta solicitud.
 Tiempo de espera agotado para esta solicitud.
 Tiempo de espera agotado para esta solicitud.
 Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=44ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=43ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=46ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=54ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=43ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=48ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=61ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=43ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=47ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=48ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=43ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=90ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=45ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=48ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=46ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=48ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=47ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=46ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=43ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=169ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=47ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=45ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=43ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=37ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=45ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=44ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=42ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=44ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=38ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=47ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=39ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=37ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=41ms TTL=115
+
+Estad¡sticas de ping para 8.8.8.8:
+    Paquetes: enviados = 1592, recibidos = 97, perdidos = 1495
+    (93% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 37ms, M ximo = 169ms, Media = 43ms
+Control-C
