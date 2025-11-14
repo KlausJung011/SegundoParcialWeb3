@@ -9,5 +9,7 @@ namespace SegundoParcialWebApi.Models
         public string Nombre { get; set; } = string.Empty;
         [Required, MaxLength(500)]
         public string Descripcion { get; set; } = string.Empty;
+
+        public ICollection<Producto>? Productos { get; set; }
     }
 }

@@ -9,5 +9,7 @@ namespace SegundoParcialWebApi.Models
         public string RazonSocial { get; set; } = string.Empty;
         [Required, MaxLength(100)]
         public string Contacto { get; set; } = string.Empty;
+
+        public ICollection<Producto>? Productos { get; set; }
     }
 }

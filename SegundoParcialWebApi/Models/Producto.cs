@@ -13,7 +13,11 @@ namespace SegundoParcialWebApi.Models
         public double Precio { get; set; } = double.NaN;
         [Required]
         public int Stock { get; set; } = 0;
-        public int IdCategoria { get; set; }
-        public int IdProveedor { get; set; }
+
+        public int? IdCategoria { get; set; }
+        public Categoria? Categoria { get; set; }
+
+        public int? IdProveedor { get; set; }
+        public Proveedor? Proveedor { get; set; }
     }
 }
