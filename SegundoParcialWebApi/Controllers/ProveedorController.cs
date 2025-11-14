@@ -10,7 +10,7 @@ namespace SegundoParcialWebApi.Controllers
     public class ProveedorController : ControllerBase
     {
         private readonly ProveedorService _proveedorService;
-        public CategoriaController(ProductoService proveedorService)
+        public ProveedorController(ProveedorService proveedorService)
         {
             _proveedorService = proveedorService;
         }

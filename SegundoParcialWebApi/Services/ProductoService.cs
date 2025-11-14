@@ -22,6 +22,15 @@ namespace SegundoParcialWebApi.Services
             return await producto;
         }
 
+        public async Task<Producto?> GetProductoProNombreAsync(string name)
+        {
+            var producto = await _appDbContext.Productos.FindAsync(name);
+            if (producto == null)
+                throw new Exception("Producto no encontrado");
+
+            return producto;
+        }
+
         public async Task<Producto> RegisterProductoAsync(RegisterProductoDto dto)
         {
             var producto = new Producto

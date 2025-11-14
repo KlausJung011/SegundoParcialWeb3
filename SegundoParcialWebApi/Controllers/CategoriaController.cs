@@ -10,7 +10,7 @@ namespace SegundoParcialWebApi.Controllers
     public class CategoriaController : ControllerBase
     {
         private readonly CategoriaService _categoriaService;
-        public CategoriaController(ProductoService categoriaService)
+        public CategoriaController(CategoriaService categoriaService)
         {
             _categoriaService = categoriaService;
         }

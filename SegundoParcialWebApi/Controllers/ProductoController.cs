@@ -29,6 +29,23 @@ namespace SegundoParcialWebApi.Controllers
             }
         }
 
+        [HttpGet("obtenerNombre/{nombre}")]
+        public async Task<IActionResult> GetByIdV2(string nombre)
+        {
+            try
+            {
+                var producto = await _productoService.GetProductoProNombreAsync(nombre);
+                if (producto == null)
+                    return NotFound(new { error = "Usuario no encontrado" });
+
+                return Ok(producto);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { error = ex.Message });
+            }
+        }
+
         [HttpPost("register")]
         public async Task<IActionResult> Register(RegisterProductoDto dto)
         {
